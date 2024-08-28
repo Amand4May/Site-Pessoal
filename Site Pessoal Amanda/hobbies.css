@@ -1,0 +1,120 @@
+.opcoes{
+    color: black;
+    font-family: 'Onest', sans-serif;
+    font-weight: 500;
+    display: flex;
+    justify-content: flex-start;
+    justify-content: space-around;
+    align-items: baseline flex-start;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.titulo{
+    font-family: "Merriweather", serif;
+    position: absolute;
+    margin-left: 2rem;
+    font-size: 30px;
+}
+
+.titdesenho{
+    color: black;
+    font-family: 'Onest', sans-serif;
+    font-weight: 500;
+    font-size: 19px;
+    position: absolute;
+    margin-top: 8rem;
+    margin-left: 5rem;
+}
+
+.blue{
+    color: rgb(3, 105, 105);
+}
+
+.desenho{
+    color: black;
+    font-family: 'Onest', sans-serif;
+    width: 365px;
+    font-size: 15px;
+    position: absolute;
+    margin-top: 10rem;
+    margin-left: 5rem;
+}
+
+.descdesenho{
+    color: black;
+    font-family: 'Onest', sans-serif;
+    position: absolute;
+    font-size: 14px;
+    margin-top: 36rem;
+    margin-left: 5rem;
+}
+
+.billie{
+    color: black;
+    font-family: 'Onest', sans-serif;
+    font-weight: 500;
+    font-size: 19px;
+    position: absolute;
+    margin-top: 8rem;
+    margin-left: 35rem;
+}
+
+.fotobillie{
+    color: black;
+    font-family: 'Onest', sans-serif;
+    width: 410px;
+    font-size: 15px;
+    position: absolute;
+    margin-top: 10rem;
+    margin-left: 35rem;
+}
+
+.descbillie{
+    color: black;
+    font-family: 'Onest', sans-serif;
+    position: absolute;
+    font-size: 14px;
+    margin-top: 36rem;
+    margin-left: 35rem;
+}
+
+.eilish{
+    color: rgb(148, 22, 43);
+}
+
+.stardew{
+    color: black;
+    font-family: 'Onest', sans-serif;
+    font-weight: 500;
+    font-size: 19px;
+    position: absolute;
+    margin-top: 8rem;
+    margin-left: 65rem;
+}
+
+.fotostardew{
+    color: black;
+    font-family: 'Onest', sans-serif;
+    width: 450px;
+    font-size: 15px;
+    position: absolute;
+    margin-top: 10rem;
+    margin-left: 65rem;
+}
+
+.descstardew{
+    color: black;
+    font-family: 'Onest', sans-serif;
+    position: absolute;
+    font-size: 14px;
+    margin-top: 36rem;
+    margin-left: 65rem;
+}
+
+.valley{
+    color: coral;
+}

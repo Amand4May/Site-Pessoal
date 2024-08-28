@@ -1,0 +1,35 @@
+.opcoes{
+    color: black;
+    font-family: 'Onest', sans-serif;
+    font-weight: 500;
+    display: flex;
+    justify-content: flex-start;
+    justify-content: space-around;
+    align-items: baseline flex-start;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.contatos{
+    font-family: 'Onest', sans-serif;
+    color: black;
+    font-weight: 500;
+    font-size: 19px;
+    position: absolute;
+    margin-top: 14rem;
+    margin-left: 55rem;
+}
+
+.fotominha{
+    width: 400px;
+    height: 400px;
+    margin-top: 8rem;
+    margin-left: 20rem;
+}
+
+.amanda{
+    color: rgb(172, 19, 45);
+}

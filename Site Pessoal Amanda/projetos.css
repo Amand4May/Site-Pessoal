@@ -1,0 +1,75 @@
+.opcoes{
+    color: black;
+    font-family: 'Onest', sans-serif;
+    font-weight: 500;
+    display: flex;
+    justify-content: flex-start;
+    justify-content: space-around;
+    align-items: baseline flex-start;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.titulo{
+    font-family: "Merriweather", serif;
+    position: absolute;
+    margin-left: 2rem;
+    font-size: 30px;
+}
+
+.site{
+    color: black;
+    font-family: 'Onest', sans-serif;
+    font-weight: 500;
+    font-size: 19px;
+    position: absolute;
+    margin-top: 8rem;
+    margin-left: 5rem;
+}
+
+.descSite{
+    color: black;
+    font-family: 'Onest', sans-serif;
+    font-size: 15px;
+    position: absolute;
+    margin-top: 10rem;
+    margin-left: 5rem;
+}
+
+.marketing{
+    margin-top: 14rem;
+    margin-left: 5rem;
+    width: 650px;
+}
+
+.freefire{
+    color: black;
+    font-family: 'Onest', sans-serif;
+    font-weight: 500;
+    font-size: 19px;
+    position: absolute;
+    margin-top: -445px;
+    margin-left: 50rem;
+}
+
+.descFreefire{
+    color: black;
+    font-family: 'Onest', sans-serif;
+    font-size: 15px;
+    position: absolute;
+    margin-top: -410px;
+    margin-left: 50rem;
+}
+
+.fotofreefire{
+    position: absolute;
+    margin-top: -350px;
+    margin-left: 50rem;
+}
+
+.los{
+    color: coral;
+}
